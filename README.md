@@ -1,0 +1,2 @@
+# DecisaoEncadeadaHomogeneaHeterogena
+ Exercicios
